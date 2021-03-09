@@ -54,3 +54,15 @@ Ich habe mich nach dem Informieren auf folgende Hardware Elemente geeinigt:
 * Wenn man nur kurz und ausserhalb von Takt der Schlangenbewegung den Taster betätigt, soll es diese Tasterrichtung speichern und zum Takt ausführen.
 * Beim Betätigen von mehreren Tastern nacheinander, ausserhalb des Taktes der Schlangenbewegung, soll es den letzten eingegangener Taster Impuls übernehmen.
 * Falls eine in entgegen gesetzter Richtungstaste geklickt wird (in Bezug auf die Schlangenbewegung), soll es keine Richtungsänderung geben.
+
+## Contributing
+
+This is a personal learning project for me. Please feel free to fork this repo. Pull request to submit more programs.
+
+## Feedback
+
+If you find any bug or have any suggestion, please do file issues. I am graceful for any feedback and will do my best to improve this package.
+
+## License
+
+[MIT](LICENSE) © 2020 Ioannis Christodoulakis
